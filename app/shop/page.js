@@ -1,9 +1,9 @@
 
 "use client";
 const products = [
-  { id: 1, name: "Testprodukt A", price: 1 },
-  { id: 2, name: "Testprodukt B", price: 1 },
-  { id: 3, name: "Testprodukt C", price: 1 },
+  { id: 1, name: "Platzhalter", price: 0 },
+  { id: 2, name: "Platzhalter", price: 0 },
+  { id: 3, name: "Philipp", price: 0 },
 ];
 
 export default function Shop() {
